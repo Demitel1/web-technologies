@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <name>Наумов</name>
+        <surname>Филип</surname>
+        <patronymic>Борисович</patronymic>
+        <age>27</age>
+        <birthplace>Калининград</birthplace>
+        <phone>+79411315165</phone>
+    </user>
+</users>
